@@ -138,7 +138,7 @@
       "foreground" : "#abb2bf",
       "background" : "#353536",
       "borderColor" : "#53565f",
-      "linkForeground" : "accentColor",
+      "linkForeground" : "#34cba8",
       "shortcutForeground" : "infoForeground"
     },
 
@@ -147,10 +147,10 @@
     },
 
     "Link": {
-      "activeForeground": "accentColor",
-      "hoverForeground": "#12a784",
-      "pressedForeground": "accentColor",
-      "visitedForeground": "accentColor"
+      "activeForeground": "#34cba8",
+      "hoverForeground": "#49dbb9",
+      "pressedForeground": "#34cba8",
+      "visitedForeground": "#867ce2"
     },
 
     "Notification": {

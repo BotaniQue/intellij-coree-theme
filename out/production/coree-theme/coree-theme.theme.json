@@ -61,8 +61,8 @@
         "endBackground": "accentColor",
         "startBorderColor": "accentColor",
         "endBorderColor": "accentColor",
-        "focusedBorderColor": "#4269b9",
-        "focusColor": "#4269b9"
+        "focusedBorderColor": "accentColor",
+        "focusColor": "accentColor"
       }
     },
 
@@ -138,7 +138,7 @@
       "foreground" : "#abb2bf",
       "background" : "#353536",
       "borderColor" : "#53565f",
-      "linkForeground" : "#6494ed",
+      "linkForeground" : "#34cba8",
       "shortcutForeground" : "infoForeground"
     },
 
@@ -147,10 +147,10 @@
     },
 
     "Link": {
-      "activeForeground": "#6494ed",
-      "hoverForeground": "#6494ed",
-      "pressedForeground": "#6494ed",
-      "visitedForeground": "#6494ed"
+      "activeForeground": "#34cba8",
+      "hoverForeground": "#49dbb9",
+      "pressedForeground": "#34cba8",
+      "visitedForeground": "#867ce2"
     },
 
     "Notification": {
@@ -162,20 +162,20 @@
       "errorBorderColor": "#692746",
 
       "MoreButton": {
-        "background": "#2f343c",
+        "background": "#333334",
         "innerBorderColor": "#53565f"
       },
 
       "ToolWindow": {
-        "informativeForeground": "#abb2bf",
-        "informativeBackground": "#2e4280",
-        "informativeBorderColor": "#252555",
+        "informativeForeground": "#b0bec5",
+        "informativeBackground": "#2a6550",
+        "informativeBorderColor": "#2a6550",
 
-        "warningForeground": "#abb2bf",
+        "warningForeground": "#b0bec5",
         "warningBackground": "#735822",
         "warningBorderColor": "#5f4422",
 
-        "errorForeground": "#abb2bf",
+        "errorForeground": "#b0bec5",
         "errorBackground": "#802d43",
         "errorBorderColor": "#552029"
       }
@@ -235,9 +235,9 @@
 
     "ProgressBar": {
       "trackColor": "#1D1D26",
-      "progressColor": "#1eb491",
-      "indeterminateStartColor": "#14cda1",
-      "indeterminateEndColor": "#057fa5",
+      "progressColor": "#db811c",
+      "indeterminateStartColor": "#cd8314",
+      "indeterminateEndColor": "#ec7a1c",
       "failedColor": "#bd3c5f",
       "failedEndColor": "#472c33",
       "passedColor": "#3e9e23",
