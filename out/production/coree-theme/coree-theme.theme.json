@@ -82,10 +82,12 @@
       }
     },
 
-    "ComboPopup.border": "1,1,1,1,2d3137",
+    "ComboPopup.border": "1,1,1,1,313234",
 
     "CompletionPopup":  {
-      "matchForeground": "#137966"
+      "matchForeground": "#0d9e83",
+      "selectionInactiveBackground": "#585c60",
+      "selectionBackground": "#585c60"
     },
 
     "Component": {
@@ -229,9 +231,13 @@
       "Header.inactiveBackground": "#303031",
       "Advertiser": {
         "foreground": "#5c6370",
-        "borderColor": "#2d3137"
+        "borderColor": "borderColor"
       }
     },
+
+    "PopupMenuSeparator.height": 10,
+    "PopupMenuSeparator.stripeIndent": 4,
+    "PopupMenuSeparator.stripeWidth": 2,
 
     "ProgressBar": {
       "trackColor": "#1D1D26",
@@ -246,22 +252,22 @@
 
     "SearchEverywhere": {
       "Advertiser.foreground": "#5c6063",
-      "Header.background": "backgroundColor",
+      "Header.background": "#303031",
 
       "SearchField":{
         "background": "textInputBg",
-        "borderColor": "#1b1d21"
+        "borderColor": "borderColor"
       },
 
       "Tab": {
         "selectedForeground": "#abb2bf",
-        "selectedBackground": "#303031"
+        "selectedBackground": "#353536"
       }
     },
 
     "SearchMatch": {
-      "startBackground": "#ced095",
-      "endBackground": "#ced095"
+      "startBackground": "#999999",
+      "endBackground": "#999999"
     },
 
     "SidePanel.background": "backgroundColor",
@@ -369,7 +375,7 @@
 
       "RefLabel": {
         "backgroundBrightness": 0.3,
-        "backgroundBase": "#5c6370",
+        "backgroundBase": "#303031",
         "foreground": "#abb2bf"
       }
     },
